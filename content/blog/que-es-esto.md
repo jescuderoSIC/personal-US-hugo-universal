@@ -1,5 +1,5 @@
 +++
-date = '2026-04-06T11:12:08+02:00'
+date = '2026-04-01T11:12:08+02:00'
 draft = true
 title = '¿Qué es esto?'
 tags = ["inicio","HUGO"]
