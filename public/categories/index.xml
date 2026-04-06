@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Página WEB del Profesor Ramón Jiménez Sevillano</title>
+    <title>Categories on rjsevillano</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Página WEB del Profesor Ramón Jiménez Sevillano</description>
+    <description>Recent content in Categories on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:12:08 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aspecto</title>
+      <link>http://localhost:1313/categories/aspecto/</link>
+      <pubDate>Mon, 06 Apr 2026 11:12:08 +0200</pubDate>
+      <guid>http://localhost:1313/categories/aspecto/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Lorem</title>
       <link>http://localhost:1313/categories/lorem/</link>

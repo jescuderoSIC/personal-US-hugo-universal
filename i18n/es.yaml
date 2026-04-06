@@ -114,3 +114,24 @@
 
 - id: December
   translation: Diciembre
+
+- id: Monday
+  translation: Lunes
+
+- id: Tuesday
+  translation: Martes
+
+- id: Wednesday
+  translation: Miércoles
+
+- id: Thursday
+  translation: Jueves
+
+- id: Friday
+  translation: Viernes
+
+- id: Saturday
+  translation: Sábado
+
+- id: Sunday
+  translation: Domingo
