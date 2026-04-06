@@ -3,6 +3,8 @@ date = '2026-04-06T19:46:07+02:00'
 draft = true
 title = 'Mapa en Pagina De Contacto'
 banner = "img/banners/banner-HugoUniversal.png"
+summary = "Cómo añadir un mapa de Google MAps a la página de contacto"
+authors = ["Google","jescudero"]
 +++
 
 Para poner el mapa de la página de contacto en unas coordenadas conocidas tan solo tendremos que ponerlas en el fichero `hugo.toml`. 

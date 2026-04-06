@@ -2,6 +2,7 @@
 date = '2026-04-06T12:20:51+02:00'
 draft = true
 title = 'Aspecto US'
+banner = "img/banners/banner-HugoUniversal.png"
 +++
 
 Para poner uno colres más corporativos se ha creado en el proyecto un fichero CSS que personaliza el tema de la Universidad de Sevilla. Además debemos cambiar en el fichero `hugo.toml` el tema que crearemos como "US"

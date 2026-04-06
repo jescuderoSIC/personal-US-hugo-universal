@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on rjsevillano</title>
+    <link>http://localhost:1313/personal-US-hugo-universal/authors/google/</link>
+    <description>Recent content in Google on rjsevillano</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 06 Apr 2026 19:46:07 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal-US-hugo-universal/authors/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapa en Pagina De Contacto</title>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/mapa-en-pagina-de-contacto/</link>
+      <pubDate>Mon, 06 Apr 2026 19:46:07 +0200</pubDate>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/mapa-en-pagina-de-contacto/</guid>
+      <description>Cómo añadir un mapa de Google MAps a la página de contacto</description>
+    </item>
+  </channel>
+</rss>

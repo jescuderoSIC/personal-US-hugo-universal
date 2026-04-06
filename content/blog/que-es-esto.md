@@ -1,6 +1,6 @@
 +++
 date = '2026-04-01T11:12:08+02:00'
-draft = true
+banner = "img/banners/banner-Hugo.jpg"
 title = '¿Qué es esto?'
 tags = ["inicio","HUGO"]
 categories = ["aspecto"]
@@ -23,19 +23,6 @@ HUGO en el esquema de creación de páginas weg significa una simplicidad total 
 
 La palabra Markdown suena rara, pero es un lenguaje de lo más sencillo para "marcar texto".
 
-#### ¿Cómo pongo una imagen?
-
-Una imagen que está en Internet
-
- ```markdown 
- ![Dandelions](https://live.staticflickr.com/2899/13977533359_80f905f013.jpg)
- ```
-
- ![Dandelions](https://live.staticflickr.com/2899/13977533359_80f905f013.jpg)
-
-Una imagen que está en nuestro sitio web
-
-![Detalle de una gota](../../../../../imagenes_blog/9435606622_82ca8c79c7_b.jpg){ width="199" }
 
 
 

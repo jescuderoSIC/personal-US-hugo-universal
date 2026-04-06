@@ -1,0 +1,9 @@
+weight: 1
+title: "Literatura Comparada"
+description: >
+  <ul class="list-style-none">
+    <li>Clases en el segundo cuatrimestre</li>
+    <li>El Quijote Anglosajón</li>
+  </ul>
+image: "img/carousel/Don_Quixote.png"
+href: "https://devcows.github.io/hugo-universal-theme/"

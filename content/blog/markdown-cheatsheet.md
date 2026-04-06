@@ -1,12 +1,14 @@
 +++
 date = '2026-04-06T20:42:50+02:00'
-draft = true
 title = 'Markdown Cheatsheet'
+banner = "img/banners/banner-Markdown.png"
+authors = ["jescudero"]
+summary="Markdown es un lenguaje de marcado ligero creado por John Gruber en 2004. Permite escribir texto plano con símbolos simples (#, *, -, >) que se convierte fácilmente a HTML válido. Su filosofía es que el documento sea legible incluso sin procesar."
 +++
 
 Markdown es un lenguaje de marcado ligero creado por John Gruber en 2004. Permite escribir texto plano con símbolos simples (#, *, -, >) que se convierte fácilmente a HTML válido. Su filosofía es que el documento sea legible incluso sin procesar.
 
-Ventajas:
+Algunas de las ventajas de Markdown son:
 - Curva de aprendizaje mínima: Se domina en minutos, no requiere conocimientos técnicos avanzados.
 - Legibilidad universal: El texto sin formato es claro y comprensible antes de ser renderizado.
 - Portabilidad: Funciona en cualquier editor de texto, sistema operativo o plataforma.

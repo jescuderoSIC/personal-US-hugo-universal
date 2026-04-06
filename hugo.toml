@@ -1,7 +1,7 @@
-baseurl = "https://localhost/" 
+# baseurl = "https://localhost/" 
 # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme 
 
-# baseurl = "https://jescuderosic.github.io/personal-US-hugo-universal/"
+baseurl = "https://jescuderosic.github.io/personal-US-hugo-universal/"
 
 title = "rjsevillano"
 theme = "hugo-universal-theme"
@@ -11,7 +11,7 @@ languageCode = "es-es"
 defaultContentLanguage = "es"
 
 # number of words of summarized post content (default 70)
-summaryLength = 70
+summaryLength = 50
 
 # not pluralize title pages by default
 pluralizelisttitles = false
@@ -284,18 +284,18 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "¿Quieres ver otras posibilidades de sitio web?"
+    subtitle = "Este es sólo uno de la gran variedad de temas que ofrece HUGO"
+    link_url = "https://themes.gohugo.io/"
+    link_text = "Galeria de Temas de Hugo"
 
 [params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
+    title = "anillo web"
+    subtitle = "Conjunto de páginas webs de Universidades, Departamentos, Colegas y Amigos con los que comparto trabajo e intereses."
 
 [params.recent_posts]
     enable = true
