@@ -1,4 +1,8 @@
-baseurl = "https://localhost/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+# baseurl = "https://localhost/" 
+# Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme 
+
+baseurl = https://jescuderosic.github.io/personal-US-hugo-universal/
+
 title = "rjsevillano"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
