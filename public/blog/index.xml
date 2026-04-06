@@ -6,8 +6,22 @@
     <description>Recent content in Blog on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 06 Apr 2026 19:46:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 20:42:50 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Cheatsheet</title>
+      <link>http://localhost:1313/blog/2026/04/06/markdown-cheatsheet/</link>
+      <pubDate>Mon, 06 Apr 2026 20:42:50 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2026/04/06/markdown-cheatsheet/</guid>
+      <description>&lt;p&gt;Markdown es un lenguaje de marcado ligero creado por John Gruber en 2004. Permite escribir texto plano con símbolos simples (#, *, -, &amp;gt;) que se convierte fácilmente a HTML válido. Su filosofía es que el documento sea legible incluso sin procesar.&lt;/p&gt;&#xA;&lt;p&gt;Ventajas:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Curva de aprendizaje mínima: Se domina en minutos, no requiere conocimientos técnicos avanzados.&lt;/li&gt;&#xA;&lt;li&gt;Legibilidad universal: El texto sin formato es claro y comprensible antes de ser renderizado.&lt;/li&gt;&#xA;&lt;li&gt;Portabilidad: Funciona en cualquier editor de texto, sistema operativo o plataforma.&lt;/li&gt;&#xA;&lt;li&gt;Conversión flexible: Puede transformarse a HTML, PDF, Word, ePub y otros formatos.&lt;/li&gt;&#xA;&lt;li&gt;Amplio ecosistema: Integrado en GitHub, foros, CMS, wikis, aplicaciones de notas (Obsidian, Notion) y generadores de sitios estáticos como Hugo.&lt;/li&gt;&#xA;&lt;li&gt;Enfoque en el contenido: Permite concentrarse en escribir sin distracciones visuales de formato complejo.&lt;/li&gt;&#xA;&lt;li&gt;Control de versiones ideal: Al ser texto plano, funciona perfectamente con Git y sistemas de control.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Veamos cómo hacer algunas cosas con Markdown&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recursos Web Gratuitos</title>
+      <link>http://localhost:1313/blog/2026/04/06/recursos-web-gratuitos/</link>
+      <pubDate>Mon, 06 Apr 2026 20:37:16 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2026/04/06/recursos-web-gratuitos/</guid>
+      <description>&lt;h3 id=&#34;recursos&#34;&gt;Recursos&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/WiSNKbYDYGQ&#34;&gt;5 sitios web con iconos gratuitos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Mapa en Pagina De Contacto</title>
       <link>http://localhost:1313/blog/2026/04/06/mapa-en-pagina-de-contacto/</link>
