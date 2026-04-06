@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publicaciones on rjsevillano</title>
-    <link>http://localhost:1313/personal-US-hugo-universal/publicaciones/</link>
+    <link>https://jescuderosic.github.io/personal-US-hugo-universal/publicaciones/</link>
     <description>Recent content in Publicaciones on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <atom:link href="http://localhost:1313/personal-US-hugo-universal/publicaciones/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jescuderosic.github.io/personal-US-hugo-universal/publicaciones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artículos en Revistas</title>
-      <link>http://localhost:1313/personal-US-hugo-universal/publicaciones/articulosrevistas/</link>
+      <link>https://jescuderosic.github.io/personal-US-hugo-universal/publicaciones/articulosrevistas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/personal-US-hugo-universal/publicaciones/articulosrevistas/</guid>
+      <guid>https://jescuderosic.github.io/personal-US-hugo-universal/publicaciones/articulosrevistas/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Capítulos de Libros</title>
-      <link>http://localhost:1313/personal-US-hugo-universal/publicaciones/capituloslibros/</link>
+      <link>https://jescuderosic.github.io/personal-US-hugo-universal/publicaciones/capituloslibros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/personal-US-hugo-universal/publicaciones/capituloslibros/</guid>
+      <guid>https://jescuderosic.github.io/personal-US-hugo-universal/publicaciones/capituloslibros/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Libros</title>
-      <link>http://localhost:1313/personal-US-hugo-universal/publicaciones/libros/</link>
+      <link>https://jescuderosic.github.io/personal-US-hugo-universal/publicaciones/libros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/personal-US-hugo-universal/publicaciones/libros/</guid>
+      <guid>https://jescuderosic.github.io/personal-US-hugo-universal/publicaciones/libros/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Otras Publicaciones</title>
-      <link>http://localhost:1313/personal-US-hugo-universal/publicaciones/otraspublicaciones/</link>
+      <link>https://jescuderosic.github.io/personal-US-hugo-universal/publicaciones/otraspublicaciones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/personal-US-hugo-universal/publicaciones/otraspublicaciones/</guid>
+      <guid>https://jescuderosic.github.io/personal-US-hugo-universal/publicaciones/otraspublicaciones/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
   </channel>

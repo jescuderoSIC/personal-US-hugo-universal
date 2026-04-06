@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aspecto on rjsevillano</title>
-    <link>http://localhost:1313/personal-US-hugo-universal/categories/aspecto/</link>
+    <link>https://jescuderosic.github.io/personal-US-hugo-universal/categories/aspecto/</link>
     <description>Recent content in Aspecto on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 01 Apr 2026 11:12:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/personal-US-hugo-universal/categories/aspecto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jescuderosic.github.io/personal-US-hugo-universal/categories/aspecto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Qué es esto?</title>
-      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/01/que-es-esto/</link>
+      <link>https://jescuderosic.github.io/personal-US-hugo-universal/blog/2026/04/01/qu%C3%A9-es-esto/</link>
       <pubDate>Wed, 01 Apr 2026 11:12:08 +0200</pubDate>
-      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/01/que-es-esto/</guid>
+      <guid>https://jescuderosic.github.io/personal-US-hugo-universal/blog/2026/04/01/qu%C3%A9-es-esto/</guid>
       <description>&lt;p&gt;No sé lo que acabará siendo, pero arranca como un intento de enseñar una forma sencilla de crear sitios web en los servidores de la Universidad de Sevilla, empezando por crear&lt;/p&gt;&#xA;&lt;p&gt;La idea sobre la que trabajaré es que voy a ir modificando un tema de HUGO, para ir cubriendo las necesidades de presencia en la web de un profesor ficticio, el profesor de Filología Hispánica y Poeta &amp;ldquo;Ramón Jiménez Sevillano&amp;rdquo;. Toda la información que se encuentra en este sitio es inventada, sacada de la triste imaginación de este picateclas ó generada por IA cuando  mi cabeza no dé para más.&lt;/p&gt;</description>
     </item>
   </channel>
