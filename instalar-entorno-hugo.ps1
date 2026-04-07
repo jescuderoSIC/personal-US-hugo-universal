@@ -79,7 +79,7 @@ Set-Acl "C:\WWW" $acl
 
 # Accedemos a la carpeta "C:\WWW" y clonamos el repositorio de GitHub
 Set-Location "C:\WWW"
-git clone https://github.com/jescuderoSIC/personal-US-hugo-universal.git
+# git clone https://github.com/jescuderoSIC/personal-US-hugo-universal.git
 
 # nos colocamos en el directorio personal-US-hugo-universal
 Set-Location "C:\WWW\personal-US-hugo-universal"
