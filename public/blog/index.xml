@@ -2,80 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on rjsevillano</title>
-    <link>http://localhost/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 06 Apr 2026 20:42:50 +0200</lastBuildDate>
-    <atom:link href="http://localhost/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Apr 2026 15:37:12 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matemáticas con Hugo</title>
+      <link>http://localhost:1313/blog/2026/04/07/matem%C3%A1ticas-con-hugo/</link>
+      <pubDate>Tue, 07 Apr 2026 15:37:12 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2026/04/07/matem%C3%A1ticas-con-hugo/</guid>
+      <description>Esta página web pretende comprobar cómo se pueden procesar notación matemática con Hugo</description>
+    </item>
     <item>
       <title>Markdown Cheatsheet</title>
-      <link>http://localhost/blog/2026/04/06/markdown-cheatsheet/</link>
+      <link>http://localhost:1313/blog/2026/04/06/markdown-cheatsheet/</link>
       <pubDate>Mon, 06 Apr 2026 20:42:50 +0200</pubDate>
-      <guid>http://localhost/blog/2026/04/06/markdown-cheatsheet/</guid>
+      <guid>http://localhost:1313/blog/2026/04/06/markdown-cheatsheet/</guid>
       <description>Markdown es un lenguaje de marcado ligero creado por John Gruber en 2004. Permite escribir texto plano con símbolos simples (#, *, -, &amp;gt;) que se convierte fácilmente a HTML válido. Su filosofía es que el documento sea legible incluso sin procesar.</description>
     </item>
     <item>
       <title>Recursos Web Gratuitos</title>
-      <link>http://localhost/blog/2026/04/06/recursos-web-gratuitos/</link>
+      <link>http://localhost:1313/blog/2026/04/06/recursos-web-gratuitos/</link>
       <pubDate>Mon, 06 Apr 2026 20:37:16 +0200</pubDate>
-      <guid>http://localhost/blog/2026/04/06/recursos-web-gratuitos/</guid>
+      <guid>http://localhost:1313/blog/2026/04/06/recursos-web-gratuitos/</guid>
       <description>Lugares donde encontrar recursos web creative commons con los que añadir contenido a tu sitio web.</description>
     </item>
     <item>
+      <title>Mapa en Pagina De Contacto</title>
+      <link>http://localhost:1313/blog/2026/04/06/mapa-en-pagina-de-contacto/</link>
+      <pubDate>Mon, 06 Apr 2026 19:46:07 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2026/04/06/mapa-en-pagina-de-contacto/</guid>
+      <description>Cómo añadir un mapa de Google MAps a la página de contacto</description>
+    </item>
+    <item>
       <title>Despues De Git Clone</title>
-      <link>http://localhost/blog/2026/04/06/despues-de-git-clone/</link>
+      <link>http://localhost:1313/blog/2026/04/06/despues-de-git-clone/</link>
       <pubDate>Mon, 06 Apr 2026 19:28:40 +0200</pubDate>
-      <guid>http://localhost/blog/2026/04/06/despues-de-git-clone/</guid>
+      <guid>http://localhost:1313/blog/2026/04/06/despues-de-git-clone/</guid>
       <description>Si con sólo clonar el repositorio no te funciona este sitio es porque no está completo. Tendrás que bajarte el tema desde el que deriva.</description>
     </item>
     <item>
+      <title>El Menu y el Megamenu</title>
+      <link>http://localhost:1313/blog/2026/04/06/el-menu-y-el-megamenu/</link>
+      <pubDate>Mon, 06 Apr 2026 13:51:54 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2026/04/06/el-menu-y-el-megamenu/</guid>
+      <description>&lt;p&gt;La mayoría de los sitios webs (al menos los que derivan de CMS) estan preparados para tener dos tipos de páginas: (1) Las páginas webs estáticas con información que apenas cambia en el tiempo; y (2) páginas que conforman un sistema de posts/noticias/novedades donde se va poniendo el contenido más reciente.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Español I18n</title>
+      <link>http://localhost:1313/blog/2026/04/06/espa%C3%B1ol-i18n/</link>
+      <pubDate>Mon, 06 Apr 2026 12:46:09 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2026/04/06/espa%C3%B1ol-i18n/</guid>
+      <description>&lt;p&gt;Para que se traduzcan tambien los días hay que hacer otros ajustes.&lt;/p&gt;&#xA;&lt;p&gt;en layouts default single y list&lt;/p&gt;&#xA;&lt;p&gt;En el fichero &lt;code&gt;hugo.toml&lt;/code&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    # Format dates with Go&amp;#39;s time formatting&#xA;    date_format = &amp;#34;Monday, 2 de January de 2006&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>Aspecto US</title>
+      <link>http://localhost:1313/blog/2026/04/06/aspecto-us/</link>
+      <pubDate>Mon, 06 Apr 2026 12:20:51 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2026/04/06/aspecto-us/</guid>
+      <description>&lt;p&gt;Para poner uno colres más corporativos se ha creado en el proyecto un fichero CSS que personaliza el tema de la Universidad de Sevilla. Además debemos cambiar en el fichero &lt;code&gt;hugo.toml&lt;/code&gt; el tema que crearemos como &amp;ldquo;US&amp;rdquo;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-hugo.toml&#34; data-lang=&#34;hugo.toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;style&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;US&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Copiamos el fichero &lt;code&gt;style.red.css&lt;/code&gt; como &lt;code&gt;style.US.css&lt;/code&gt; y en este último redefinimos los colores, lo que se ha cambiado respecto a los otros ficheros de aspecto es la definicion de variables de &lt;strong&gt;root:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>¿Qué es esto?</title>
-      <link>http://localhost/blog/2026/04/01/qu%C3%A9-es-esto/</link>
+      <link>http://localhost:1313/blog/2026/04/01/qu%C3%A9-es-esto/</link>
       <pubDate>Wed, 01 Apr 2026 11:12:08 +0200</pubDate>
-      <guid>http://localhost/blog/2026/04/01/qu%C3%A9-es-esto/</guid>
+      <guid>http://localhost:1313/blog/2026/04/01/qu%C3%A9-es-esto/</guid>
       <description>&lt;p&gt;No sé lo que acabará siendo, pero arranca como un intento de enseñar una forma sencilla de crear sitios web en los servidores de la Universidad de Sevilla, empezando por crear&lt;/p&gt;&#xA;&lt;p&gt;La idea sobre la que trabajaré es que voy a ir modificando un tema de HUGO, para ir cubriendo las necesidades de presencia en la web de un profesor ficticio, el profesor de Filología Hispánica y Poeta &amp;ldquo;Ramón Jiménez Sevillano&amp;rdquo;. Toda la información que se encuentra en este sitio es inventada, sacada de la triste imaginación de este picateclas ó generada por IA cuando  mi cabeza no dé para más.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Categories Post</title>
-      <link>http://localhost/blog/2021/08/01/categories-post/</link>
+      <link>http://localhost:1313/blog/2021/08/01/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost/blog/2021/08/01/categories-post/</guid>
+      <guid>http://localhost:1313/blog/2021/08/01/categories-post/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a post with multiple categories in the frontmatter:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linked post</title>
-      <link>http://localhost/blog/2015/10/02/linked-post/</link>
+      <link>http://localhost:1313/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>http://localhost/blog/2015/10/02/linked-post/</guid>
+      <guid>http://localhost:1313/blog/2015/10/02/linked-post/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go is for lovers</title>
-      <link>http://localhost/blog/2015/09/17/go-is-for-lovers/</link>
+      <link>http://localhost:1313/blog/2015/09/17/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>http://localhost/blog/2015/09/17/go-is-for-lovers/</guid>
+      <guid>http://localhost:1313/blog/2015/09/17/go-is-for-lovers/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://go.dev/&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;https://pkg.go.dev/html/template&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in go templates.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo is for lovers</title>
-      <link>http://localhost/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>http://localhost:1313/blog/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      <guid>http://localhost/blog/2015/08/03/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+      <guid>http://localhost:1313/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
     </item>
     <item>
       <title>Creating a new theme</title>
-      <link>http://localhost/blog/2015/06/24/creating-a-new-theme/</link>
+      <link>http://localhost:1313/blog/2015/06/24/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      <guid>http://localhost/blog/2015/06/24/creating-a-new-theme/</guid>
+      <guid>http://localhost:1313/blog/2015/06/24/creating-a-new-theme/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Migrate from Jekyll</title>
-      <link>http://localhost/blog/1/01/01/migrate-from-jekyll/</link>
+      <link>http://localhost:1313/blog/1/01/01/migrate-from-jekyll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost/blog/1/01/01/migrate-from-jekyll/</guid>
+      <guid>http://localhost:1313/blog/1/01/01/migrate-from-jekyll/</guid>
       <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&#xA;With Jekyll, something that looked like&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xD;&#xA;    ▾ images/&#xD;&#xA;        logo.png&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;should become&lt;/p&gt;</description>
     </item>
   </channel>
