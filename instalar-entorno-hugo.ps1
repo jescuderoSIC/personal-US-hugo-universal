@@ -53,9 +53,9 @@ winget install --id Git.Git -e --source winget --scope machine
 winget install Hugo.Hugo.Extended --scope machine
 winget install --id Microsoft.VisualStudioCode -e --scope machine
 
-# por si no existieran tambien vamos a instalar los siguientes programas:
-winget install --id GIMP.GIMP -e --scope machine
-winget install --id FileZilla.Client -e --scope machine
+# por si no existieran también vamos a instalar los siguientes programas:
+# winget install --id GIMP.GIMP -e --scope machine
+# winget install --id FileZilla.Client -e --scope machine
 
 # Instalamos la extensión de idioma español para Visual Studio Code
 # Instalamos la extensión de corrector ortográfico para Visual Studio Code
@@ -63,6 +63,7 @@ winget install --id FileZilla.Client -e --scope machine
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension ms-ceintl.vscode-language-pack-es
 code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension streetsidesoftware.code-spell-checker-spanish
 
 
 # Si existiese la carpeta "C:\WWW" se renombrará a c:\WWW_%date:yyyy-MM-dd_HH-mm-ss%
@@ -79,7 +80,7 @@ Set-Acl "C:\WWW" $acl
 
 # Accedemos a la carpeta "C:\WWW" y clonamos el repositorio de GitHub
 Set-Location "C:\WWW"
-# git clone https://github.com/jescuderoSIC/personal-US-hugo-universal.git
+git clone https://github.com/jescuderoSIC/personal-US-hugo-universal.git
 
 # nos colocamos en el directorio personal-US-hugo-universal
 Set-Location "C:\WWW\personal-US-hugo-universal"

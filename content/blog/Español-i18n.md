@@ -1,7 +1,7 @@
 +++
 date = '2026-04-06T12:46:09+02:00'
 draft = true
-title = 'Español I18n'
+title = 'Español i18n'
 +++
 
 Para que se traduzcan tambien los días hay que hacer otros ajustes.

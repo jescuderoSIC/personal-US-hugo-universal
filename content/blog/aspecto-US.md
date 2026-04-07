@@ -1,11 +1,11 @@
 +++
 date = '2026-04-06T12:20:51+02:00'
-draft = true
 title = 'Aspecto US'
 banner = "img/banners/banner-HugoUniversal.png"
+summary = "Para que nuestro sitio web tenga un aspecto más acorde con la identidad corporativa de nuestra institución se han cambiado logos y colores del tema Universal."
 +++
 
-Para poner uno colres más corporativos se ha creado en el proyecto un fichero CSS que personaliza el tema de la Universidad de Sevilla. Además debemos cambiar en el fichero `hugo.toml` el tema que crearemos como "US"
+Para poner uno colores más corporativos se ha creado en el proyecto un fichero CSS que personaliza el tema de la Universidad de Sevilla. Además debemos cambiar en el fichero `hugo.toml` el tema que crearemos como "US"
 
 ```hugo.toml
 
@@ -15,7 +15,7 @@ Para poner uno colres más corporativos se ha creado en el proyecto un fichero C
 ```
 
 
-Copiamos el fichero `style.red.css` como `style.US.css` y en este último redefinimos los colores, lo que se ha cambiado respecto a los otros ficheros de aspecto es la definicion de variables de **root:**
+Copiamos el fichero `style.red.css` como `/static/css/style.US.css` y en este último redefinimos los colores, lo que se ha cambiado respecto a los otros ficheros de aspecto es la definición de variables de **root:**
 
 ```css
 /* Themed colors */
