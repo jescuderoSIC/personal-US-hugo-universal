@@ -1,0 +1,43 @@
+{{ if isset .Site.Params "testimonials" }}
+{{ if .Site.Params.testimonials.enable }}
+{{ if isset .Site.Data "testimonials" }}
+{{ if gt (len .Site.Data.testimonials) 0 }}
+<section class="bar background-pentagon no-mb">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <div class="heading text-center">
+          <h2>{{ .Site.Params.testimonials.title }}</h2>
+        </div>
+        <p class="lead">
+          {{ .Site.Params.testimonials.subtitle | markdownify }}
+        </p>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12">
+        {{ $cols := default 4 .Site.Params.testimonials.cols }}
+        <div class="testimonial-book-wrapper testimonial-cols-{{ $cols }}">
+          {{ $count := 0 }}
+          {{ range $key, $item := .Site.Data.testimonials }}
+            {{ if and $item.link (lt $count $cols) }}
+            <div class="testimonial-book-item">
+              <a href="{{ $item.link }}" target="_blank" rel="noopener noreferrer">
+                {{ with $item.image }}
+                  <img src="{{ . | relURL }}" alt="{{ default "Libro" $item.name }}" class="testimonial-book-image" />
+                {{ end }}
+                <span class="testimonial-book-link-text">{{ $item.link_text | default "Ver más" }}</span>
+              </a>
+            </div>
+            {{ $count = add $count 1 }}
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}

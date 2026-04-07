@@ -1,0 +1,21 @@
+{{ if and (isset .Site.Params "biografia") .Site.Params.biografia.enable }}
+<section class="section biografia-section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-8 biografia-text">
+        {{ with .Site.Params.biografia.title }}
+          <h2 class="text-uppercase mb-small">{{ . }}</h2>
+        {{ end }}
+        {{ with .Site.Params.biografia.texto }}
+          {{ . | safeHTML }}
+        {{ end }}
+      </div>
+      <div class="col-md-4 text-center biografia-photo-col">
+        {{ with .Site.Params.biografia.foto }}
+          <img src="{{ . | relURL }}" class="biografia-photo" alt="{{ default "Foto de perfil" $.Site.Params.biografia.alt }}">
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

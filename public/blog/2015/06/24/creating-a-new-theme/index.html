@@ -11,18 +11,18 @@
 <meta name="author" content="DevCows" />
 
 
-<link rel="canonical" href="https://jescuderosic.github.io/personal-US-hugo-universal/blog/2015/06/24/creating-a-new-theme/" />
+<link rel="canonical" href="http://localhost/blog/2015/06/24/creating-a-new-theme/" />
 
 
 
 
 
-<meta name="keywords" content="devcows, hugo, go, theme">
+<meta name="keywords" content="hugo, go, theme">
 
 
 <meta name="description" content="This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.">
 
-<meta name="generator" content="Hugo 0.159.2">
+<meta name="generator" content="Hugo 0.160.0">
 
 
 <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
@@ -32,15 +32,15 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
 
 
-<link href="/personal-US-hugo-universal/css/animate.css" rel="stylesheet">
+<link href="/css/animate.css" rel="stylesheet">
 
 
 
-  <link href="/personal-US-hugo-universal/css/style.US.css" rel="stylesheet" id="theme-stylesheet">
+  <link href="/css/style.US.css" rel="stylesheet" id="theme-stylesheet">
 
 
 
-<link href="/personal-US-hugo-universal/css/custom.css?1775519307" rel="stylesheet">
+<link href="/css/custom.css?1775568106" rel="stylesheet">
 
 
 
@@ -51,15 +51,15 @@
 
 
 
-<link rel="shortcut icon" href="/personal-US-hugo-universal/img/favicon.ico" type="image/x-icon" />
-<link rel="apple-touch-icon" href="/personal-US-hugo-universal/img/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png" />
 
 
-<link href="/personal-US-hugo-universal/css/owl.carousel.css" rel="stylesheet">
-<link href="/personal-US-hugo-universal/css/owl.theme.css" rel="stylesheet">
+<link href="/css/owl.carousel.css" rel="stylesheet">
+<link href="/css/owl.theme.css" rel="stylesheet">
 
 
-<link rel="alternate" href="https://jescuderosic.github.io/index.xml" type="application/rss+xml" title="rjsevillano">
+<link rel="alternate" href="http://localhost/index.xml" type="application/rss+xml" title="rjsevillano">
 
 
 
@@ -72,9 +72,9 @@
 <meta property="og:site_name" content="rjsevillano">
 <meta property="og:title" content="Creating a new theme">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://jescuderosic.github.io/personal-US-hugo-universal/blog/2015/06/24/creating-a-new-theme/" />
+<meta property="og:url" content="http://localhost/blog/2015/06/24/creating-a-new-theme/" />
 <meta property="og:description" content="This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.">
-<meta property="og:image" content="https://jescuderosic.github.io/personal-US-hugo-universal/img/banners/banner-1.jpg">
+<meta property="og:image" content="http://localhost/img/banners/banner-1.jpg">
 <meta property="og:image:type" content="image/jpg">
 
 
@@ -100,7 +100,7 @@
 <meta name="twitter:site" content="@GoHugoIO">
 <meta name="twitter:title" content="Creating a new theme">
 
-<meta name="twitter:image" content="https://jescuderosic.github.io/personal-US-hugo-universal/img/banners/banner-1.jpg">
+<meta name="twitter:image" content="http://localhost/img/banners/banner-1.jpg">
 
 <meta name="twitter:description" content="This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.">
 
@@ -152,8 +152,8 @@
             <div class="navbar-header">
                 <a class="navbar-brand home" href="/">
                     
-                      <img src="/personal-US-hugo-universal/img/logo.png" alt="Creating a new theme logo" class="hidden-xs hidden-sm" />
-                      <img src="/personal-US-hugo-universal/img/logo-small.png" alt="Creating a new theme logo" class="visible-xs visible-sm" />
+                      <img src="/img/logo.png" alt="Creating a new theme logo" class="hidden-xs hidden-sm" />
+                      <img src="/img/logo-small.png" alt="Creating a new theme logo" class="visible-xs visible-sm" />
                     
                     <span class="sr-only">Creating a new theme - ir a inicio</span>
                 </a>
@@ -182,7 +182,7 @@
 
                   
                   <li class="dropdown ">
-                    <a href="/personal-US-hugo-universal/">Inicio</a>
+                    <a href="/">Inicio</a>
                   </li>
                   
                   
@@ -203,11 +203,11 @@
                         
                         <ul class="dropdown-menu">
                             
-                            <li><a href="/personal-US-hugo-universal/curriculum/formacion">Formación</a></li>
+                            <li><a href="/curriculum/formacion">Formación</a></li>
                             
-                            <li><a href="/personal-US-hugo-universal/curriculum/actividaddocente">Actividad Docente</a></li>
+                            <li><a href="/curriculum/actividaddocente">Actividad Docente</a></li>
                             
-                            <li><a href="/personal-US-hugo-universal/curriculum/investigacion">Investigación</a></li>
+                            <li><a href="/curriculum/investigacion">Investigación</a></li>
                             
                         </ul>
                         
@@ -231,13 +231,13 @@
                         
                         <ul class="dropdown-menu">
                             
-                            <li><a href="/personal-US-hugo-universal/publicaciones/libros">Libros</a></li>
+                            <li><a href="/publicaciones/libros">Libros</a></li>
                             
-                            <li><a href="/personal-US-hugo-universal/publicaciones/capituloslibros">Capítulos en Libros</a></li>
+                            <li><a href="/publicaciones/capituloslibros">Capítulos en Libros</a></li>
                             
-                            <li><a href="/personal-US-hugo-universal/publicaciones/articulosrevistas">Artículos en Revistas</a></li>
+                            <li><a href="/publicaciones/articulosrevistas">Artículos en Revistas</a></li>
                             
-                            <li><a href="/personal-US-hugo-universal/publicaciones/otraspublicaciones">Otras Publicaciones</a></li>
+                            <li><a href="/publicaciones/otraspublicaciones">Otras Publicaciones</a></li>
                             
                         </ul>
                         
@@ -255,7 +255,24 @@
 
                   
                   <li class="dropdown ">
-                    <a href="/personal-US-hugo-universal/docencia/">Docencia</a>
+                    <a href="/docencia/">Docencia</a>
+                  </li>
+                  
+                  
+                  
+                  
+
+                  
+
+                  
+                    
+                  
+
+                  
+
+                  
+                  <li class="dropdown active">
+                    <a href="/blog/">Blog</a>
                   </li>
                   
                   
@@ -270,22 +287,7 @@
 
                   
                   <li class="dropdown ">
-                    <a href="/personal-US-hugo-universal/blog/">Blog</a>
-                  </li>
-                  
-                  
-                  
-                  
-
-                  
-
-                  
-
-                  
-
-                  
-                  <li class="dropdown ">
-                    <a href="/personal-US-hugo-universal/contacto/">Contacto</a>
+                    <a href="/contacto/">Contacto</a>
                   </li>
                   
                   
@@ -334,7 +336,7 @@
                         
                           <p class="text-muted text-uppercase mb-small text-right">
                             
-			      Por <a href="/personal-US-hugo-universal/authors/jane-doe">Jane Doe</a>
+			      Por <a href="/authors/jane-doe">Jane Doe</a>
                             
                             
                             
@@ -1241,7 +1243,7 @@ $ vi themes/zafta/layouts/_default/single.html
         <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
             <div class="input-group">
                 <input type="search" name="q" class="form-control" placeholder="Buscar" />
-                <input type="hidden" name="sitesearch" value="https://jescuderosic.github.io/" />
+                <input type="hidden" name="sitesearch" value="http://localhost/" />
                 <span class="input-group-btn">
                     <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
                 </span>
@@ -1267,23 +1269,23 @@ $ vi themes/zafta/layouts/_default/single.html
             
             
             <li >
-                <a href="/personal-US-hugo-universal/categories/aspecto">ASPECTO (1)</a>
+                <a href="/categories/aspecto">ASPECTO (1)</a>
             </li>
             
             <li >
-                <a href="/personal-US-hugo-universal/categories/lorem">LOREM (2)</a>
+                <a href="/categories/lorem">LOREM (2)</a>
             </li>
             
             <li >
-                <a href="/personal-US-hugo-universal/categories/programming">PROGRAMMING (3)</a>
+                <a href="/categories/programming">PROGRAMMING (3)</a>
             </li>
             
             <li >
-                <a href="/personal-US-hugo-universal/categories/pseudo">PSEUDO (2)</a>
+                <a href="/categories/pseudo">PSEUDO (2)</a>
             </li>
             
             <li >
-                <a href="/personal-US-hugo-universal/categories/starting">STARTING (1)</a>
+                <a href="/categories/starting">STARTING (1)</a>
             </li>
             
         </ul>
@@ -1309,31 +1311,31 @@ $ vi themes/zafta/layouts/_default/single.html
             
             
             <li >
-                <a href="/personal-US-hugo-universal/tags/go"><i class="fas fa-tags"></i> go</a>
+                <a href="/tags/go"><i class="fas fa-tags"></i> go</a>
             </li>
             
             <li >
-                <a href="/personal-US-hugo-universal/tags/golang"><i class="fas fa-tags"></i> golang</a>
+                <a href="/tags/golang"><i class="fas fa-tags"></i> golang</a>
             </li>
             
             <li >
-                <a href="/personal-US-hugo-universal/tags/hugo"><i class="fas fa-tags"></i> hugo</a>
+                <a href="/tags/hugo"><i class="fas fa-tags"></i> hugo</a>
             </li>
             
             <li >
-                <a href="/personal-US-hugo-universal/tags/inicio"><i class="fas fa-tags"></i> inicio</a>
+                <a href="/tags/inicio"><i class="fas fa-tags"></i> inicio</a>
             </li>
             
             <li >
-                <a href="/personal-US-hugo-universal/tags/ipsum"><i class="fas fa-tags"></i> ipsum</a>
+                <a href="/tags/ipsum"><i class="fas fa-tags"></i> ipsum</a>
             </li>
             
             <li >
-                <a href="/personal-US-hugo-universal/tags/programming"><i class="fas fa-tags"></i> programming</a>
+                <a href="/tags/programming"><i class="fas fa-tags"></i> programming</a>
             </li>
             
             <li >
-                <a href="/personal-US-hugo-universal/tags/theme"><i class="fas fa-tags"></i> theme</a>
+                <a href="/tags/theme"><i class="fas fa-tags"></i> theme</a>
             </li>
             
         </ul>
@@ -1385,40 +1387,40 @@ $ vi themes/zafta/layouts/_default/single.html
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="https://jescuderosic.github.io/personal-US-hugo-universal/blog/2026/04/06/markdown-cheatsheet/">
+                        <a href="http://localhost/blog/2026/04/06/markdown-cheatsheet/">
                           
-                            <img src="/personal-US-hugo-universal/img/banners/banner-Markdown.png" class="img-responsive" alt="Markdown Cheatsheet" />
+                            <img src="/img/banners/banner-Markdown.png" class="img-responsive" alt="Markdown Cheatsheet" />
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="https://jescuderosic.github.io/personal-US-hugo-universal/blog/2026/04/06/markdown-cheatsheet/">Markdown Cheatsheet</a></h5>
+                        <h5><a href="http://localhost/blog/2026/04/06/markdown-cheatsheet/">Markdown Cheatsheet</a></h5>
                     </div>
                 </div>
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="https://jescuderosic.github.io/personal-US-hugo-universal/blog/2026/04/06/recursos-web-gratuitos/">
+                        <a href="http://localhost/blog/2026/04/06/recursos-web-gratuitos/">
                           
-                            <img src="/personal-US-hugo-universal/img/banners/banner-wwwResources.png" class="img-responsive" alt="Recursos Web Gratuitos" />
+                            <img src="/img/banners/banner-wwwResources.png" class="img-responsive" alt="Recursos Web Gratuitos" />
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="https://jescuderosic.github.io/personal-US-hugo-universal/blog/2026/04/06/recursos-web-gratuitos/">Recursos Web Gratuitos</a></h5>
+                        <h5><a href="http://localhost/blog/2026/04/06/recursos-web-gratuitos/">Recursos Web Gratuitos</a></h5>
                     </div>
                 </div>
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="https://jescuderosic.github.io/personal-US-hugo-universal/blog/2026/04/06/despues-de-git-clone/">
+                        <a href="http://localhost/blog/2026/04/06/despues-de-git-clone/">
                           
-                            <img src="/personal-US-hugo-universal/img/banners/banner-HugoUniversal.png" class="img-responsive" alt="Despues De Git Clone" />
+                            <img src="/img/banners/banner-HugoUniversal.png" class="img-responsive" alt="Despues De Git Clone" />
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="https://jescuderosic.github.io/personal-US-hugo-universal/blog/2026/04/06/despues-de-git-clone/">Despues De Git Clone</a></h5>
+                        <h5><a href="http://localhost/blog/2026/04/06/despues-de-git-clone/">Despues De Git Clone</a></h5>
                     </div>
                 </div>
                 
@@ -1466,7 +1468,7 @@ $ vi themes/zafta/layouts/_default/single.html
     <div class="container">
         <div class="col-md-12">
             
-            <p class="pull-left">Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</p>
+            <p class="pull-left">Copyright (c) 2026, Universidad de Sevilla.</p>
             
             <p class="pull-right">
               Plantilla creada por <a href="https://bootstrapious.com/universal-business-e-commerce-template">Bootstrapious</a>.
@@ -1495,14 +1497,14 @@ $ vi themes/zafta/layouts/_default/single.html
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
 
 <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY&v=3.exp"></script>
-<script src="/personal-US-hugo-universal/js/hpneo.gmaps.js"></script>
-<script src="/personal-US-hugo-universal/js/gmaps.init.js"></script>
+<script src="/js/hpneo.gmaps.js"></script>
+<script src="/js/gmaps.init.js"></script>
 
 
-<script src="/personal-US-hugo-universal/js/front.js"></script>
+<script src="/js/front.js"></script>
 
 
-<script src="/personal-US-hugo-universal/js/owl.carousel.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
 
 
   </body>

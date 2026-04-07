@@ -1,7 +1,7 @@
-# baseurl = "https://localhost/" 
+baseurl = "http://localhost" 
 # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme 
 
-baseurl = "https://jescuderosic.github.io/personal-US-hugo-universal/"
+# baseurl = "https://jescuderosic.github.io/personal-US-hugo-universal/"
 
 title = "rjsevillano"
 theme = "hugo-universal-theme"
@@ -151,7 +151,7 @@ pluralizelisttitles = false
 [params]
     viewMorePostLink = "/blog/"
     author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    defaultKeywords = ["hugo", "go"]
     mainSections = ["blog"]
     defaultDescription = "Site template made by Devcows using Hugo"
 
@@ -169,6 +169,7 @@ pluralizelisttitles = false
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "US"
+    date_format = "Monday, 2 de January de 2006"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -205,10 +206,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
-
-    # Format dates with Go's time formatting
-    date_format = "Monday, 2 de January de 2006"
+    copyright = "Copyright (c) 2026, Universidad de Sevilla."
 
     dropdown_mouse_over = false
 
@@ -266,8 +264,19 @@ pluralizelisttitles = false
     slide_speed = 2000
     pagination_speed = 1000
 
-[params.features]
+[params.biografia]
     enable = true
+    title = "Algunos detalles sobre mí"
+    texto = """
+    <p>Ramón Jiménez Sevillano (Sevilla, 1972) es catedrático de Teoría de la Literatura y Literatura Comparada en la Universidad de Sevilla. Su carrera combina la pasión por la poesía y la pintura con una trayectoria internacional.</p>
+    <p>Doctor en Filología, realizó una estancia postdoctoral en la Universidad de Tokio (2002-2004), donde estudió haiku y pintura sumi-e. Fue profesor titular en la Universidad de Sídney (2006-2009), investigando poesía y paisaje en el Pacífico, y profesor visitante en la Universidad de Buenos Aires (2012-2014), donde profundizó en la poesía de Pizarnik y la pintura de Berni.</p>
+    <p>A lo largo de esos años fue publicando artículos en revistas de literatura comparada que le dieron proyección nacional e internacional. En 2015 regresó a Sevilla como profesor titular y continuó publicando hasta reunir los méritos suficientes para obtener, en 2023, la cátedra en su facultad de origen. Su obra más conocida es La mirada y el verbo: estéticas comparadas entre Oriente y Occidente (2020).</p>
+    """
+    foto = "img/profesor.jpg"
+    alt = "Foto del profesor Ramón Jiménez Sevillano"
+
+[params.features]
+    enable = false
     cols = 3 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
@@ -275,11 +284,12 @@ pluralizelisttitles = false
 
 [params.testimonials]
     enable = true
+    cols = 4
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Recién Publicados"
+    subtitle = "Libros y artículos publicados recientemente (2025-2026)"
 
 [params.see_more]
     enable = true

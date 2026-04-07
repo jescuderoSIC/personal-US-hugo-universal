@@ -14,3 +14,113 @@
 .box-simple {
     min-height: 230px;
 }
+
+.testimonial-book-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.testimonial-book-wrapper.testimonial-cols-2 .testimonial-book-item {
+    flex: 0 0 calc((100% - 30px) / 2);
+}
+
+.testimonial-book-wrapper.testimonial-cols-3 .testimonial-book-item {
+    flex: 0 0 calc((100% - 60px) / 3);
+}
+
+.testimonial-book-wrapper.testimonial-cols-4 .testimonial-book-item {
+    flex: 0 0 calc((100% - 90px) / 4);
+}
+
+.testimonial-book-wrapper.testimonial-cols-6 .testimonial-book-item {
+    flex: 0 0 calc((100% - 150px) / 6);
+}
+
+.testimonial-book-item {
+    max-width: 100%;
+    min-width: 140px;
+    text-align: center;
+}
+
+.testimonial-book-wrapper.testimonial-cols-4 .testimonial-book-item {
+    flex: 0 0 calc((100% - 90px) / 4);
+}
+
+@media (max-width: 1200px) {
+    .testimonial-book-wrapper.testimonial-cols-4 .testimonial-book-item {
+        flex: 0 0 calc((100% - 60px) / 4);
+    }
+}
+
+@media (max-width: 992px) {
+    .testimonial-book-item {
+        flex: 1 1 calc(50% - 15px);
+        max-width: 48%;
+    }
+}
+
+@media (max-width: 576px) {
+    .testimonial-book-item {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
+
+.testimonial-book-item a {
+    color: inherit;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.testimonial-book-image {
+    display: block;
+    width: 100%;
+    max-width: 180px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.testimonial-book-link-text {
+    display: block;
+    margin-top: 18px;
+    font-size: 1.05rem;
+    font-weight: 700;
+}
+
+.testimonial-book-item a:hover .testimonial-book-link-text {
+    color: #0056b3;
+}
+
+.biografia-section {
+    padding: 50px 0;
+}
+
+.biografia-text p {
+    margin-bottom: 1.2rem;
+    line-height: 1.75;
+}
+
+.biografia-photo-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.biografia-photo {
+    width: 250px;
+    max-width: 100%;
+    border-radius: 50%;
+    border: 8px solid #ffffff;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+}
+
+@media (max-width: 767px) {
+    .biografia-photo-col {
+        margin-top: 20px;
+    }
+}
