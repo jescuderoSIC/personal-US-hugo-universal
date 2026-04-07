@@ -6,8 +6,15 @@
     <description>Recent content in Jescudero on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 07 Apr 2026 15:37:12 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 20:12:58 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/authors/jescudero/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poesía Con Hugo</title>
+      <link>http://localhost:1313/blog/2026/04/07/poes%C3%ADa-con-hugo/</link>
+      <pubDate>Tue, 07 Apr 2026 20:12:58 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2026/04/07/poes%C3%ADa-con-hugo/</guid>
+      <description>Esta página web pretende comprobar cómo se puede escribir poesía con Hugo, no hay ninguna opción especidica para ello, pero se puede jugar un poco tanto con el markdown como con el html</description>
+    </item>
     <item>
       <title>Matemáticas con Hugo</title>
       <link>http://localhost:1313/blog/2026/04/07/matem%C3%A1ticas-con-hugo/</link>

@@ -6,8 +6,15 @@
     <description>Recent content on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 07 Apr 2026 15:37:12 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 20:12:58 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poesía Con Hugo</title>
+      <link>http://localhost:1313/blog/2026/04/07/poes%C3%ADa-con-hugo/</link>
+      <pubDate>Tue, 07 Apr 2026 20:12:58 +0200</pubDate>
+      <guid>http://localhost:1313/blog/2026/04/07/poes%C3%ADa-con-hugo/</guid>
+      <description>Esta página web pretende comprobar cómo se puede escribir poesía con Hugo, no hay ninguna opción especidica para ello, pero se puede jugar un poco tanto con el markdown como con el html</description>
+    </item>
     <item>
       <title>Matemáticas con Hugo</title>
       <link>http://localhost:1313/blog/2026/04/07/matem%C3%A1ticas-con-hugo/</link>
@@ -55,7 +62,7 @@
       <link>http://localhost:1313/blog/2026/04/06/espa%C3%B1ol-i18n/</link>
       <pubDate>Mon, 06 Apr 2026 12:46:09 +0200</pubDate>
       <guid>http://localhost:1313/blog/2026/04/06/espa%C3%B1ol-i18n/</guid>
-      <description>&lt;p&gt;Para que se traduzcan tambien los días hay que hacer otros ajustes.&lt;/p&gt;&#xA;&lt;p&gt;en layouts default single y list&lt;/p&gt;&#xA;&lt;p&gt;En el fichero &lt;code&gt;hugo.toml&lt;/code&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    # Format dates with Go&amp;#39;s time formatting&#xA;    date_format = &amp;#34;Monday, 2 de January de 2006&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+      <description>&lt;p&gt;Para que se traduzcan tambien los días hay que hacer otros ajustes.&lt;/p&gt;&#xA;&lt;p&gt;en layouts default single y list&lt;/p&gt;&#xA;&lt;p&gt;En el fichero &lt;code&gt;hugo.toml&lt;/code&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    # Format dates with Go&amp;#39;s time formatting&#xD;&#xA;    date_format = &amp;#34;Monday, 2 de January de 2006&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>Aspecto US</title>
@@ -108,9 +115,9 @@
     </item>
     <item>
       <title>A veces pinto</title>
-      <link>http://localhost:1313/pintoramateur/</link>
+      <link>http://localhost:1313/ocio/pintoramateur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pintoramateur/</guid>
+      <guid>http://localhost:1313/ocio/pintoramateur/</guid>
       <description>&lt;p&gt;Esto pretende ser una forma sencilla de tocar un fichero y hacer un despliegue solo desde github.&lt;/p&gt;&#xA;&lt;p&gt;Cras sit amet nisl et est vulputate interdum nec nec elit. Praesent ultricies, libero a eleifend aliquam, leo ligula vehicula massa, eu pharetra tellus dui quis ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam a pharetra ligula. Nam rutrum nisi sit amet orci elementum tristique. Mauris massa turpis, sodales tempor massa sed, imperdiet mollis nunc. Mauris tristique sed libero ac vehicula. In cursus, eros a tincidunt cursus, nisl massa ultricies justo, sed ornare nisi elit at urna. Morbi finibus mauris metus, at interdum diam consequat quis. Sed quis ullamcorper diam, et feugiat mauris. Sed lobortis vitae justo non porta. In at ultricies lectus, in luctus nulla.&lt;/p&gt;</description>
     </item>
     <item>

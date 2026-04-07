@@ -4,7 +4,10 @@ title = 'Matemáticas con Hugo'
 banner = "img/banners/banner-Hugo.jpg"
 summary = "Esta página web pretende comprobar cómo se pueden procesar notación matemática con Hugo"
 authors = ["jescudero"]
+math = true
 +++
+
+### Resolución de una ecuación de segundo grado
 
 Una ecuación de segundo grado tiene la forma general:
 
@@ -19,7 +22,7 @@ donde:
 
 ---
 
-## 1. Normalización de la ecuación
+#### 1. Normalización de la ecuación
 
 Dividimos toda la ecuación entre $a$:
 
@@ -29,7 +32,7 @@ $$
 
 ---
 
-## 2. Aislar el término independiente
+#### 2. Aislar el término independiente
 
 Pasamos el término constante al otro lado:
 
@@ -39,7 +42,7 @@ $$
 
 ---
 
-## 3. Completar el cuadrado
+#### 3. Completar el cuadrado
 
 Añadimos el término necesario para formar un cuadrado perfecto:
 
@@ -56,7 +59,7 @@ $$
 
 ---
 
-## 4. Expresar como cuadrado perfecto
+#### 4. Expresar como cuadrado perfecto
 
 El lado izquierdo queda:
 
@@ -79,7 +82,7 @@ $$
 
 ---
 
-## 5. Extraer la raíz cuadrada
+#### 5. Extraer la raíz cuadrada
 
 $$
 x + \frac{b}{2a} =
@@ -88,7 +91,7 @@ $$
 
 ---
 
-## 6. Despejar la incógnita
+#### 6. Despejar la incógnita
 
 Finalmente obtenemos:
 
@@ -99,7 +102,7 @@ $$
 
 ---
 
-## 7. Fórmula general
+#### 7. Fórmula general
 
 La solución de la ecuación de segundo grado es:
 
@@ -110,7 +113,7 @@ $$
 
 ---
 
-## 8. Discriminante
+#### 8. Discriminante
 
 Se define el **discriminante** como:
 
@@ -124,7 +127,7 @@ $$
 
 ---
 
-## 9. Ejemplo numérico
+#### 9. Ejemplo numérico
 
 Resolver:
 
@@ -147,10 +150,7 @@ $$
 Raíces:
 
 $$
-x =
-\frac{-(-4) \pm \sqrt{64}}{2(2)}
-=
-\frac{4 \pm 8}{4}
+x = \frac{-(-4) \pm \sqrt{64}}{2(2)} = \frac{4 \pm 8}{4}
 $$
 
 Soluciones:

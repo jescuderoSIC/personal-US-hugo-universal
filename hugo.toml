@@ -1,7 +1,14 @@
-# baseurl = "http://localhost" 
-# Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme 
+# En este fichero de extensión toml comentar/descomentar una linea es precederla/no precederla del símbolo #.
+# Las distintas partes de la pagina web existen por la existencia de configuraciones, o porque estas tengan un interruptor a "true".
+# Este fichero hugo.toml es el responsable de generar la página de inicio del sitio web.
+# Lea cuidadosamente las opciones y modifiquelas para ver su efecto.
 
-baseurl = "https://jescuderosic.github.io/personal-US-hugo-universal/"
+# Comente o descomente la variable baseurl según se encuentre desarrollando este sitio web en su ordenador o lo esté desplegando en github o un server de la Universidad de Sevilla.
+
+baseurl = "http://localhost" 
+# baseurl = "https://personal.us.es/rjsevillano"
+# baseurl = "https://jescuderosic.github.io/personal-US-hugo-universal/"
+
 
 title = "rjsevillano"
 theme = "hugo-universal-theme"
@@ -205,6 +212,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
+# SOBRE NOSOTROS
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
     copyright = "Copyright (c) 2026, Universidad de Sevilla."
 
@@ -294,8 +302,8 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "¿Quieres ver otras posibilidades de sitio web?"
-    subtitle = "Este es sólo uno de la gran variedad de temas que ofrece HUGO"
+    title = "A veces un Haiku te arregla el día"
+    subtitle = "Un mundo de sufrimiento<br>Y aun así, los cerezos<br>Están floreciendo "
     link_url = "https://themes.gohugo.io/"
     link_text = "Galeria de Temas de Hugo"
 
@@ -309,8 +317,8 @@ pluralizelisttitles = false
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "El blog de esta página"
+    subtitle = "El Blog de esta página contiene sobre todo algunos ejemplos de webs creadas con HUGO, sirve a modo de galeria de ejemplos de lo que se puede hacer y probar en estas páginas."
     hide_summary = false
 
 [params.footer.recent_posts]

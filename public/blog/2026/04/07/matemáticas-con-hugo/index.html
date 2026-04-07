@@ -22,7 +22,7 @@
 
 <meta name="description" content="Site template made by Devcows using Hugo">
 
-<meta name="generator" content="Hugo 0.160.0">
+<meta name="generator" content="Hugo 0.159.2">
 
 
 <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
@@ -40,7 +40,7 @@
 
 
 
-<link href="/css/custom.css?1775569160" rel="stylesheet">
+<link href="/css/custom.css?1775588041" rel="stylesheet">
 
 
 
@@ -105,6 +105,23 @@
 
 
     
+  <script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+
+<script async
+src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
+
+
   </head>
 
   <body>
@@ -386,7 +403,8 @@
                         
 
                         <div id="post-content">
-                          <p>Una ecuación de segundo grado tiene la forma general:</p>
+                          <h3 id="resolución-de-una-ecuación-de-segundo-grado">Resolución de una ecuación de segundo grado</h3>
+<p>Una ecuación de segundo grado tiene la forma general:</p>
 <p>$$
 ax^2 + bx + c = 0
 $$</p>
@@ -396,19 +414,19 @@ $$</p>
 <li>$a \neq 0$</li>
 </ul>
 <hr>
-<h2 id="1-normalización-de-la-ecuación">1. Normalización de la ecuación</h2>
+<h4 id="1-normalización-de-la-ecuación">1. Normalización de la ecuación</h4>
 <p>Dividimos toda la ecuación entre $a$:</p>
 <p>$$
 x^2 + \frac{b}{a}x + \frac{c}{a} = 0
 $$</p>
 <hr>
-<h2 id="2-aislar-el-término-independiente">2. Aislar el término independiente</h2>
+<h4 id="2-aislar-el-término-independiente">2. Aislar el término independiente</h4>
 <p>Pasamos el término constante al otro lado:</p>
 <p>$$
 x^2 + \frac{b}{a}x = -\frac{c}{a}
 $$</p>
 <hr>
-<h2 id="3-completar-el-cuadrado">3. Completar el cuadrado</h2>
+<h4 id="3-completar-el-cuadrado">3. Completar el cuadrado</h4>
 <p>Añadimos el término necesario para formar un cuadrado perfecto:</p>
 <p>$$
 \left(\frac{b}{2a}\right)^2
@@ -419,7 +437,7 @@ x^2 + \frac{b}{a}x + \left(\frac{b}{2a}\right)^2 =
 -\frac{c}{a} + \left(\frac{b}{2a}\right)^2
 $$</p>
 <hr>
-<h2 id="4-expresar-como-cuadrado-perfecto">4. Expresar como cuadrado perfecto</h2>
+<h4 id="4-expresar-como-cuadrado-perfecto">4. Expresar como cuadrado perfecto</h4>
 <p>El lado izquierdo queda:</p>
 <p>$$
 \left(x + \frac{b}{2a}\right)^2
@@ -434,27 +452,27 @@ $$</p>
 \frac{b^2 - 4ac}{4a^2}
 $$</p>
 <hr>
-<h2 id="5-extraer-la-raíz-cuadrada">5. Extraer la raíz cuadrada</h2>
+<h4 id="5-extraer-la-raíz-cuadrada">5. Extraer la raíz cuadrada</h4>
 <p>$$
 x + \frac{b}{2a} =
 \pm \frac{\sqrt{b^2 - 4ac}}{2a}
 $$</p>
 <hr>
-<h2 id="6-despejar-la-incógnita">6. Despejar la incógnita</h2>
+<h4 id="6-despejar-la-incógnita">6. Despejar la incógnita</h4>
 <p>Finalmente obtenemos:</p>
 <p>$$
 x =
 \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$</p>
 <hr>
-<h2 id="7-fórmula-general">7. Fórmula general</h2>
+<h4 id="7-fórmula-general">7. Fórmula general</h4>
 <p>La solución de la ecuación de segundo grado es:</p>
 <p>$$
 x_{1,2} =
 \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$</p>
 <hr>
-<h2 id="8-discriminante">8. Discriminante</h2>
+<h4 id="8-discriminante">8. Discriminante</h4>
 <p>Se define el <strong>discriminante</strong> como:</p>
 <p>$$
 \Delta = b^2 - 4ac
@@ -465,7 +483,7 @@ $$</p>
 <li>Si $\Delta &lt; 0$ → raíces complejas conjugadas.</li>
 </ul>
 <hr>
-<h2 id="9-ejemplo-numérico">9. Ejemplo numérico</h2>
+<h4 id="9-ejemplo-numérico">9. Ejemplo numérico</h4>
 <p>Resolver:</p>
 <p>$$
 2x^2 - 4x - 6 = 0
@@ -481,10 +499,8 @@ $$</p>
 \Delta = (-4)^2 - 4(2)(-6) = 16 + 48 = 64
 $$</p>
 <p>Raíces:</p>
-<h1 id="frac--4-pm-sqrt6422">$$
-x =
-\frac{-(-4) \pm \sqrt{64}}{2(2)}</h1>
-<p>\frac{4 \pm 8}{4}
+<p>$$
+x = \frac{-(-4) \pm \sqrt{64}}{2(2)} = \frac{4 \pm 8}{4}
 $$</p>
 <p>Soluciones:</p>
 <p>$$
@@ -688,6 +704,19 @@ $$</p>
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
+                        <a href="http://localhost:1313/blog/2026/04/07/poes%C3%ADa-con-hugo/">
+                          
+                            <img src="/img/banners/banner-Hugo.jpg" class="img-responsive" alt="Poesía Con Hugo" />
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://localhost:1313/blog/2026/04/07/poes%C3%ADa-con-hugo/">Poesía Con Hugo</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
                         <a href="http://localhost:1313/blog/2026/04/07/matem%C3%A1ticas-con-hugo/">
                           
                             <img src="/img/banners/banner-Hugo.jpg" class="img-responsive" alt="Matemáticas con Hugo" />
@@ -709,19 +738,6 @@ $$</p>
                     </div>
                     <div class="name same-height-always">
                         <h5><a href="http://localhost:1313/blog/2026/04/06/markdown-cheatsheet/">Markdown Cheatsheet</a></h5>
-                    </div>
-                </div>
-                
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="http://localhost:1313/blog/2026/04/06/recursos-web-gratuitos/">
-                          
-                            <img src="/img/banners/banner-wwwResources.png" class="img-responsive" alt="Recursos Web Gratuitos" />
-                          
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="http://localhost:1313/blog/2026/04/06/recursos-web-gratuitos/">Recursos Web Gratuitos</a></h5>
                     </div>
                 </div>
                 
