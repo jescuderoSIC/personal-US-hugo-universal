@@ -1,0 +1,10 @@
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+  mermaid.initialize({ startOnLoad: false, securityLevel: "loose" });
+  document.addEventListener('DOMContentLoaded', function() {
+    mermaid.run({
+      querySelector: 'code.language-mermaid',
+      suppressErrors: false
+    });
+  });
+</script>

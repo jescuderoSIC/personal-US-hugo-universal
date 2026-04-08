@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="../css/asciinema-player.css" />
+</head>
+<body>
+
+<h1>Asciinema Demo 1</h1>
+<div id="demo1"></div>
+
+<h1>Asciinema Demo 2</h1>
+<div id="demo2"></div>
+
+<script src="../js/asciinema-player.min.js"></script>
+
+<script>
+AsciinemaPlayer.create(
+  '../casts/asciinema-627097.cast',
+  document.getElementById('demo1')
+);
+
+AsciinemaPlayer.create(
+  '../casts/554631.cast',
+  document.getElementById('demo2')
+);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+{{ $cast := .Get "cast" }}
+{{ $loop := .Get "loop" }}
+{{ $autoplay := .Get "autoplay" }}
+{{ $speed := or (.Get "speed") "1" }}
+{{ $src := "" }}
+{{ if or (strings.HasPrefix $cast "http://") (strings.HasPrefix $cast "https://") }}
+  {{ $src = $cast }}
+{{ else if strings.HasSuffix $cast ".cast" }}
+  {{ $src = printf "/casts/%s" $cast }}
+{{ else }}
+  {{ $src = printf "https://asciinema.org/a/%s.cast" $cast }}
+{{ end }}
+{{ $id := printf "asciinema-%s" (urlize $cast) }}
+<div id="{{ $id }}"></div>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    if (typeof AsciinemaPlayer !== "undefined" && AsciinemaPlayer.create) {
+      AsciinemaPlayer.create("{{ $src }}", document.getElementById("{{ $id }}"), {
+        preload: "auto",
+        loop: {{ if eq $loop "true" }}true{{ else }}false{{ end }},
+        autoplay: {{ if eq $autoplay "true" }}true{{ else }}false{{ end }},
+        speed: {{ $speed }}
+      });
+    }
+  });
+</script>
