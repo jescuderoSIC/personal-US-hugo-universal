@@ -6,7 +6,7 @@
 {{ if or (strings.HasPrefix $cast "http://") (strings.HasPrefix $cast "https://") }}
   {{ $src = $cast }}
 {{ else if strings.HasSuffix $cast ".cast" }}
-  {{ $src = printf "/casts/%s" $cast }}
+  {{ $src = printf "%s" $cast }}
 {{ else }}
   {{ $src = printf "https://asciinema.org/a/%s.cast" $cast }}
 {{ end }}
