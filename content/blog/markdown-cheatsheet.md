@@ -93,3 +93,32 @@ Basta con pulsar en YTB el botón de compartir y escoger la opción de insertar.
 ```
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gs1CU-PQtvc?si=PyO9C7_4cuLjmQ2i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Añadir un bloque de código fuente
+
+```text
+``go {linenos=inline hl_lines=[3,"6-8"] style=emacs}
+package main
+
+import "fmt"
+
+func main() {
+    for i := 0; i < 3; i++ {
+        fmt.Println("Value of i:", i)
+    }
+}
+``
+```
+
+
+```go {linenos=inline hl_lines=[3,"6-8"] style=emacs}
+package main
+
+import "fmt"
+
+func main() {
+    for i := 0; i < 3; i++ {
+        fmt.Println("Value of i:", i)
+    }
+}
+```
