@@ -5,9 +5,9 @@
 
 # Comente o descomente la variable baseurl según se encuentre desarrollando este sitio web en su ordenador o lo esté desplegando en github o un server de la Universidad de Sevilla.
 
-baseurl = "http://localhost" 
+# baseurl = "http://localhost" 
 # baseurl = "https://personal.us.es/rjsevillano"
-# baseurl = "https://jescuderosic.github.io/personal-US-hugo-universal/"
+baseurl = "https://jescuderosic.github.io/personal-US-hugo-universal/"
 
 
 title = "rjsevillano"

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Starting on rjsevillano</title>
-    <link>http://localhost:1313/categories/starting/</link>
+    <link>http://localhost:54990/personal-US-hugo-universal/categories/starting/</link>
     <description>Recent content in Starting on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/starting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54990/personal-US-hugo-universal/categories/starting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a new theme</title>
-      <link>http://localhost:1313/blog/2015/06/24/creating-a-new-theme/</link>
+      <link>http://localhost:54990/personal-US-hugo-universal/blog/2015/06/24/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2015/06/24/creating-a-new-theme/</guid>
+      <guid>http://localhost:54990/personal-US-hugo-universal/blog/2015/06/24/creating-a-new-theme/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
     </item>
   </channel>
