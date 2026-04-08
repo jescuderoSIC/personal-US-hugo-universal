@@ -306,10 +306,10 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "A veces un Haiku te arregla el día"
+    title = "A veces un Haiku embellece tu día"
     subtitle = "Un mundo de sufrimiento<br>Y aun así, los cerezos<br>Están floreciendo "
     link_url = "https://themes.gohugo.io/"
-    link_text = "Galeria de Temas de Hugo"
+    link_text = "Galería de Temas de Hugo"
 
 [params.clients]
     enable = true

@@ -7,19 +7,21 @@ authors = ["jescudero"]
 mermaid = true
 asciinema = true
 steps = true
+math = true
 +++
 
 Los shortcodes son pequeñas etiquetas o fragmentos especiales que te permiten insertar contenido dinámico o componentes más complejos dentro de un archivo Markdown de forma sencilla. Son etiquetas personalizadas que el generador estático interpreta y reemplaza por HTML (u otro contenido) en el proceso de build.
 
 Los shortcodes son uno de los aspectos más avanzados y complejos de HUGO, si no tiene conocimientos deberá auxiliarlo su IA favorita.
 
-### Asciinema
 
-{{< asciinema
-  cast="../../../../../casts/554631.cast"
-  loop=true
-  autoplay=true
-  speed=2 >}}
+### Notación matemática con Mathjax
+
+```txt
+$$ \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}) \right) \psi(\mathbf{r}) = E \psi(\mathbf{r}) $$
+```
+
+$$ \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}) \right) \psi(\mathbf{r}) = E \psi(\mathbf{r}) $$
 
 
 ### Diagramas con Mermaid
@@ -49,7 +51,7 @@ stateDiagram-v2
 
 ### Paso a Paso
 
-```html
+```txt
 
 {{ % steps %}}
 1. ## Suspendisse sed congue orci.
@@ -91,7 +93,22 @@ stateDiagram-v2
 
 {{% /steps %}}
 
+### Asciinema
 
+```txt
+{{ < asciinema
+  cast="../../../../../casts/554631.cast"
+  loop=true
+  autoplay=true
+  speed=2 >}}
+```
+
+
+{{< asciinema
+  cast="../../../../../casts/554631.cast"
+  loop=true
+  autoplay=true
+  speed=2 >}}
 
 ### Referencias
 

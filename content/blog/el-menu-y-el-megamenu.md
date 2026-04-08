@@ -1,6 +1,6 @@
 +++
 date = '2026-04-06T13:51:54+02:00'
-draft = true
+banner = "img/banners/banner-HugoUniversal.png"
 title = 'El Menu y el Megamenu'
 +++
 

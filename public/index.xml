@@ -2,206 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rjsevillano</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/personal-US-hugo-universal/</link>
     <description>Recent content on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 08 Apr 2026 12:03:40 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/personal-US-hugo-universal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:1313/blog/2026/04/08/shortcodes/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/08/shortcodes/</link>
       <pubDate>Wed, 08 Apr 2026 12:03:40 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2026/04/08/shortcodes/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/08/shortcodes/</guid>
       <description>Esta página web pretende comprobar cómo funcionan los shortcodes que he visto en el tema Hugo - Book</description>
     </item>
     <item>
-      <title>Poesía Con Hugo</title>
-      <link>http://localhost:1313/blog/2026/04/07/poes%C3%ADa-con-hugo/</link>
-      <pubDate>Tue, 07 Apr 2026 20:12:58 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2026/04/07/poes%C3%ADa-con-hugo/</guid>
-      <description>Esta página web pretende comprobar cómo se puede escribir poesía con Hugo, no hay ninguna opción especidica para ello, pero se puede jugar un poco tanto con el markdown como con el html</description>
-    </item>
-    <item>
-      <title>Matemáticas con Hugo</title>
-      <link>http://localhost:1313/blog/2026/04/07/matem%C3%A1ticas-con-hugo/</link>
-      <pubDate>Tue, 07 Apr 2026 15:37:12 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2026/04/07/matem%C3%A1ticas-con-hugo/</guid>
-      <description>Esta página web pretende comprobar cómo se pueden procesar notación matemática con Hugo</description>
+      <title>¿Qué es esto?</title>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/08/qu%C3%A9-es-esto/</link>
+      <pubDate>Wed, 08 Apr 2026 11:12:08 +0200</pubDate>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/08/qu%C3%A9-es-esto/</guid>
+      <description>Esta sitio un intento de enseñar una forma sencilla de crear sitios web en los servidores de la Universidad de Sevilla, minimizando el conocimiento técnico necesario para desplegarlo.</description>
     </item>
     <item>
       <title>Markdown Cheatsheet</title>
-      <link>http://localhost:1313/blog/2026/04/06/markdown-cheatsheet/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/markdown-cheatsheet/</link>
       <pubDate>Mon, 06 Apr 2026 20:42:50 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2026/04/06/markdown-cheatsheet/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/markdown-cheatsheet/</guid>
       <description>Markdown es un lenguaje de marcado ligero creado por John Gruber en 2004. Permite escribir texto plano con símbolos simples (#, *, -, &amp;gt;) que se convierte fácilmente a HTML válido. Su filosofía es que el documento sea legible incluso sin procesar.</description>
     </item>
     <item>
       <title>Recursos Web Gratuitos</title>
-      <link>http://localhost:1313/blog/2026/04/06/recursos-web-gratuitos/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/recursos-web-gratuitos/</link>
       <pubDate>Mon, 06 Apr 2026 20:37:16 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2026/04/06/recursos-web-gratuitos/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/recursos-web-gratuitos/</guid>
       <description>Lugares donde encontrar recursos web creative commons con los que añadir contenido a tu sitio web.</description>
     </item>
     <item>
       <title>Mapa en Pagina De Contacto</title>
-      <link>http://localhost:1313/blog/2026/04/06/mapa-en-pagina-de-contacto/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/mapa-en-pagina-de-contacto/</link>
       <pubDate>Mon, 06 Apr 2026 19:46:07 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2026/04/06/mapa-en-pagina-de-contacto/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/mapa-en-pagina-de-contacto/</guid>
       <description>Cómo añadir un mapa de Google MAps a la página de contacto</description>
     </item>
     <item>
       <title>Despues De Git Clone</title>
-      <link>http://localhost:1313/blog/2026/04/06/despues-de-git-clone/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/despues-de-git-clone/</link>
       <pubDate>Mon, 06 Apr 2026 19:28:40 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2026/04/06/despues-de-git-clone/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/despues-de-git-clone/</guid>
       <description>Si con sólo clonar el repositorio no te funciona este sitio es porque no está completo. Tendrás que bajarte el tema desde el que deriva.</description>
     </item>
     <item>
       <title>El Menu y el Megamenu</title>
-      <link>http://localhost:1313/blog/2026/04/06/el-menu-y-el-megamenu/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/el-menu-y-el-megamenu/</link>
       <pubDate>Mon, 06 Apr 2026 13:51:54 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2026/04/06/el-menu-y-el-megamenu/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/el-menu-y-el-megamenu/</guid>
       <description>&lt;p&gt;La mayoría de los sitios webs (al menos los que derivan de CMS) estan preparados para tener dos tipos de páginas: (1) Las páginas webs estáticas con información que apenas cambia en el tiempo; y (2) páginas que conforman un sistema de posts/noticias/novedades donde se va poniendo el contenido más reciente.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Español i18n</title>
-      <link>http://localhost:1313/blog/2026/04/06/espa%C3%B1ol-i18n/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/espa%C3%B1ol-i18n/</link>
       <pubDate>Mon, 06 Apr 2026 12:46:09 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2026/04/06/espa%C3%B1ol-i18n/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/espa%C3%B1ol-i18n/</guid>
       <description>&lt;p&gt;Para que se traduzcan tambien los días hay que hacer otros ajustes.&lt;/p&gt;&#xA;&lt;p&gt;en layouts default single y list&lt;/p&gt;&#xA;&lt;p&gt;En el fichero &lt;code&gt;hugo.toml&lt;/code&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    # Format dates with Go&amp;#39;s time formatting&#xD;&#xA;    date_format = &amp;#34;Monday, 2 de January de 2006&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>Aspecto US</title>
-      <link>http://localhost:1313/blog/2026/04/06/aspecto-us/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/aspecto-us/</link>
       <pubDate>Mon, 06 Apr 2026 12:20:51 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2026/04/06/aspecto-us/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/06/aspecto-us/</guid>
       <description>Para que nuestro sitio web tenga un aspecto más acorde con la identidad corporativa de nuestra institución se han cambiado logos y colores del tema Universal.</description>
     </item>
     <item>
-      <title>¿Qué es esto?</title>
-      <link>http://localhost:1313/blog/2026/04/01/qu%C3%A9-es-esto/</link>
-      <pubDate>Wed, 01 Apr 2026 11:12:08 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2026/04/01/qu%C3%A9-es-esto/</guid>
-      <description>&lt;p&gt;No sé lo que acabará siendo, pero arranca como un intento de enseñar una forma sencilla de crear sitios web en los servidores de la Universidad de Sevilla, empezando por crear&lt;/p&gt;&#xA;&lt;p&gt;La idea sobre la que trabajaré es que voy a ir modificando un tema de HUGO, para ir cubriendo las necesidades de presencia en la web de un profesor ficticio, el profesor de Filología Hispánica y Poeta &amp;ldquo;Ramón Jiménez Sevillano&amp;rdquo;. Toda la información que se encuentra en este sitio es inventada, sacada de la triste imaginación de este picateclas ó generada por IA cuando  mi cabeza no dé para más.&lt;/p&gt;</description>
+      <title>Poesía Con Hugo</title>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/01/poes%C3%ADa-con-hugo/</link>
+      <pubDate>Wed, 01 Apr 2026 20:12:58 +0200</pubDate>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/04/01/poes%C3%ADa-con-hugo/</guid>
+      <description>Esta página web pretende comprobar cómo se puede escribir poesía con Hugo, no hay ninguna opción especidica para ello, pero se puede jugar un poco tanto con el markdown como con el html</description>
+    </item>
+    <item>
+      <title>Matemáticas con Hugo</title>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2026/03/07/matem%C3%A1ticas-con-hugo/</link>
+      <pubDate>Sat, 07 Mar 2026 15:37:12 +0200</pubDate>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2026/03/07/matem%C3%A1ticas-con-hugo/</guid>
+      <description>Esta página web pretende comprobar cómo se pueden procesar notación matemática con Hugo</description>
     </item>
     <item>
       <title>Categories Post</title>
-      <link>http://localhost:1313/blog/2021/08/01/categories-post/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2021/08/01/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2021/08/01/categories-post/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2021/08/01/categories-post/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a post with multiple categories in the frontmatter:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linked post</title>
-      <link>http://localhost:1313/blog/2015/10/02/linked-post/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2015/10/02/linked-post/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2015/10/02/linked-post/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go is for lovers</title>
-      <link>http://localhost:1313/blog/2015/09/17/go-is-for-lovers/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2015/09/17/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2015/09/17/go-is-for-lovers/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2015/09/17/go-is-for-lovers/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://go.dev/&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;https://pkg.go.dev/html/template&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in go templates.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo is for lovers</title>
-      <link>http://localhost:1313/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2015/08/03/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;http://localhost:1313/personal-US-hugo-universal/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
     </item>
     <item>
       <title>Creating a new theme</title>
-      <link>http://localhost:1313/blog/2015/06/24/creating-a-new-theme/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/2015/06/24/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      <guid>http://localhost:1313/blog/2015/06/24/creating-a-new-theme/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/2015/06/24/creating-a-new-theme/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A veces pinto</title>
-      <link>http://localhost:1313/ocio/pintoramateur/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/ocio/pintoramateur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ocio/pintoramateur/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/ocio/pintoramateur/</guid>
       <description>&lt;p&gt;Esto pretende ser una forma sencilla de tocar un fichero y hacer un despliegue solo desde github.&lt;/p&gt;&#xA;&lt;p&gt;Cras sit amet nisl et est vulputate interdum nec nec elit. Praesent ultricies, libero a eleifend aliquam, leo ligula vehicula massa, eu pharetra tellus dui quis ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam a pharetra ligula. Nam rutrum nisi sit amet orci elementum tristique. Mauris massa turpis, sodales tempor massa sed, imperdiet mollis nunc. Mauris tristique sed libero ac vehicula. In cursus, eros a tincidunt cursus, nisl massa ultricies justo, sed ornare nisi elit at urna. Morbi finibus mauris metus, at interdum diam consequat quis. Sed quis ullamcorper diam, et feugiat mauris. Sed lobortis vitae justo non porta. In at ultricies lectus, in luctus nulla.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Actividad Docente</title>
-      <link>http://localhost:1313/curriculum/actividaddocente/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/curriculum/actividaddocente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/curriculum/actividaddocente/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/curriculum/actividaddocente/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Artículos en Revistas</title>
-      <link>http://localhost:1313/publicaciones/articulosrevistas/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/publicaciones/articulosrevistas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/articulosrevistas/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/publicaciones/articulosrevistas/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Capítulos de Libros</title>
-      <link>http://localhost:1313/publicaciones/capituloslibros/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/publicaciones/capituloslibros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/capituloslibros/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/publicaciones/capituloslibros/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contacto</title>
-      <link>http://localhost:1313/contacto/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/contacto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contacto/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/contacto/</guid>
       <description>&lt;h1 id=&#34;para-contactar-conmigo&#34;&gt;Para contactar conmigo&lt;/h1&gt;&#xA;&lt;p&gt;La forma de contacto preferida es el correo electrónico, mi dirección es &lt;code&gt;rjsevillano@us.es&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mi despacho en la facultad es el &lt;strong&gt;210&lt;/strong&gt; y las hora de tutoría son:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;L,X y V de 12:00-14:00 para Teoría de la Literatura.&lt;/li&gt;&#xA;&lt;li&gt;M, J de 17:00-19:00 para Literatura Comparada.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Si desea contactar conmigo puede usar el formulario de más abajo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Docencia</title>
-      <link>http://localhost:1313/docencia/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/docencia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docencia/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/docencia/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FAQ</title>
-      <link>http://localhost:1313/faq/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/faq/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/faq/</guid>
       <description>&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-what-to-do-if-i-have-still-not-received-the-order&#34;&gt;1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?&lt;/h2&gt;&#xA;&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Formación</title>
-      <link>http://localhost:1313/curriculum/formacion/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/curriculum/formacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/curriculum/formacion/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/curriculum/formacion/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Investigación</title>
-      <link>http://localhost:1313/curriculum/investigacion/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/curriculum/investigacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/curriculum/investigacion/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/curriculum/investigacion/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Libros</title>
-      <link>http://localhost:1313/publicaciones/libros/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/publicaciones/libros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/libros/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/publicaciones/libros/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Migrate from Jekyll</title>
-      <link>http://localhost:1313/blog/1/01/01/migrate-from-jekyll/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/blog/1/01/01/migrate-from-jekyll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/1/01/01/migrate-from-jekyll/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/blog/1/01/01/migrate-from-jekyll/</guid>
       <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&#xA;With Jekyll, something that looked like&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xD;&#xA;    ▾ images/&#xD;&#xA;        logo.png&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;should become&lt;/p&gt;</description>
     </item>
     <item>
       <title>Otras Publicaciones</title>
-      <link>http://localhost:1313/publicaciones/otraspublicaciones/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/publicaciones/otraspublicaciones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/otraspublicaciones/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/publicaciones/otraspublicaciones/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
   </channel>

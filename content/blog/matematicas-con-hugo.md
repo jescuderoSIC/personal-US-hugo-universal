@@ -1,5 +1,5 @@
 +++
-date = '2026-04-07T15:37:12+02:00'
+date = '2026-03-07T15:37:12+02:00'
 title = 'Matemáticas con Hugo'
 banner = "img/banners/banner-Hugo.jpg"
 summary = "Esta página web pretende comprobar cómo se pueden procesar notación matemática con Hugo"

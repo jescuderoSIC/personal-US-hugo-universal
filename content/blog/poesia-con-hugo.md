@@ -1,5 +1,5 @@
 +++
-date = '2026-04-07T20:12:58+02:00'
+date = '2026-04-01T20:12:58+02:00'
 title = 'Poesía Con Hugo'
 banner = "img/banners/banner-Hugo.jpg"
 summary = "Esta página web pretende comprobar cómo se puede escribir poesía con Hugo, no hay ninguna opción especidica para ello, pero se puede jugar un poco tanto con el markdown como con el html"

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ocio on rjsevillano</title>
-    <link>http://localhost:1313/ocio/</link>
+    <link>http://localhost:1313/personal-US-hugo-universal/ocio/</link>
     <description>Recent content in Ocio on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <atom:link href="http://localhost:1313/ocio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/personal-US-hugo-universal/ocio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A veces pinto</title>
-      <link>http://localhost:1313/ocio/pintoramateur/</link>
+      <link>http://localhost:1313/personal-US-hugo-universal/ocio/pintoramateur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ocio/pintoramateur/</guid>
+      <guid>http://localhost:1313/personal-US-hugo-universal/ocio/pintoramateur/</guid>
       <description>&lt;p&gt;Esto pretende ser una forma sencilla de tocar un fichero y hacer un despliegue solo desde github.&lt;/p&gt;&#xA;&lt;p&gt;Cras sit amet nisl et est vulputate interdum nec nec elit. Praesent ultricies, libero a eleifend aliquam, leo ligula vehicula massa, eu pharetra tellus dui quis ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam a pharetra ligula. Nam rutrum nisi sit amet orci elementum tristique. Mauris massa turpis, sodales tempor massa sed, imperdiet mollis nunc. Mauris tristique sed libero ac vehicula. In cursus, eros a tincidunt cursus, nisl massa ultricies justo, sed ornare nisi elit at urna. Morbi finibus mauris metus, at interdum diam consequat quis. Sed quis ullamcorper diam, et feugiat mauris. Sed lobortis vitae justo non porta. In at ultricies lectus, in luctus nulla.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,6 +1,6 @@
 +++
 date = '2026-04-06T12:46:09+02:00'
-draft = true
+banner = "img/banners/banner-HugoUniversal.png"
 title = 'Español i18n'
 +++
 
