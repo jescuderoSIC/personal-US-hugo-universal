@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on rjsevillano</title>
-    <link>http://localhost:54990/personal-US-hugo-universal/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 01 Apr 2026 11:12:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:54990/personal-US-hugo-universal/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aspecto</title>
-      <link>http://localhost:54990/personal-US-hugo-universal/categories/aspecto/</link>
+      <link>http://localhost:1313/categories/aspecto/</link>
       <pubDate>Wed, 01 Apr 2026 11:12:08 +0200</pubDate>
-      <guid>http://localhost:54990/personal-US-hugo-universal/categories/aspecto/</guid>
+      <guid>http://localhost:1313/categories/aspecto/</guid>
       <description></description>
     </item>
     <item>
       <title>Lorem</title>
-      <link>http://localhost:54990/personal-US-hugo-universal/categories/lorem/</link>
+      <link>http://localhost:1313/categories/lorem/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:54990/personal-US-hugo-universal/categories/lorem/</guid>
+      <guid>http://localhost:1313/categories/lorem/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>http://localhost:54990/personal-US-hugo-universal/categories/programming/</link>
+      <link>http://localhost:1313/categories/programming/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:54990/personal-US-hugo-universal/categories/programming/</guid>
+      <guid>http://localhost:1313/categories/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Pseudo</title>
-      <link>http://localhost:54990/personal-US-hugo-universal/categories/pseudo/</link>
+      <link>http://localhost:1313/categories/pseudo/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:54990/personal-US-hugo-universal/categories/pseudo/</guid>
+      <guid>http://localhost:1313/categories/pseudo/</guid>
       <description></description>
     </item>
     <item>
       <title>Starting</title>
-      <link>http://localhost:54990/personal-US-hugo-universal/categories/starting/</link>
+      <link>http://localhost:1313/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      <guid>http://localhost:54990/personal-US-hugo-universal/categories/starting/</guid>
+      <guid>http://localhost:1313/categories/starting/</guid>
       <description></description>
     </item>
   </channel>

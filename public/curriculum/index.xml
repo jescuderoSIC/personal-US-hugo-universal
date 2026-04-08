@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curriculum on rjsevillano</title>
-    <link>http://localhost:54990/personal-US-hugo-universal/curriculum/</link>
+    <link>http://localhost:1313/curriculum/</link>
     <description>Recent content in Curriculum on rjsevillano</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <atom:link href="http://localhost:54990/personal-US-hugo-universal/curriculum/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/curriculum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Actividad Docente</title>
-      <link>http://localhost:54990/personal-US-hugo-universal/curriculum/actividaddocente/</link>
+      <link>http://localhost:1313/curriculum/actividaddocente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54990/personal-US-hugo-universal/curriculum/actividaddocente/</guid>
+      <guid>http://localhost:1313/curriculum/actividaddocente/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Formación</title>
-      <link>http://localhost:54990/personal-US-hugo-universal/curriculum/formacion/</link>
+      <link>http://localhost:1313/curriculum/formacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54990/personal-US-hugo-universal/curriculum/formacion/</guid>
+      <guid>http://localhost:1313/curriculum/formacion/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Investigación</title>
-      <link>http://localhost:54990/personal-US-hugo-universal/curriculum/investigacion/</link>
+      <link>http://localhost:1313/curriculum/investigacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54990/personal-US-hugo-universal/curriculum/investigacion/</guid>
+      <guid>http://localhost:1313/curriculum/investigacion/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas at diam et eleifend. Aliquam volutpat cursus tortor, quis laoreet mauris condimentum pretium. Aliquam pulvinar consectetur velit, eu ultricies augue fermentum ut. Morbi tellus dui, efficitur sit amet mi eget, porttitor euismod enim. Phasellus ac egestas dui. Vivamus commodo nisi tempor molestie euismod. Sed non sollicitudin nulla. Nulla metus diam, vulputate eget urna quis, blandit commodo mauris. Aenean et eros egestas, scelerisque massa non, vulputate felis. Mauris iaculis urna vitae dolor fermentum, eu aliquet magna dignissim. Fusce in massa libero. Suspendisse felis felis, aliquet ac iaculis semper, ullamcorper ut eros. Nam sodales aliquam semper. Sed et finibus sem. Etiam quis pellentesque velit, et imperdiet purus. Sed at nunc arcu.&lt;/p&gt;</description>
     </item>
   </channel>
