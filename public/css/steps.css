@@ -1,0 +1,44 @@
+.steps-shortcode {
+  counter-reset: step-counter;
+  margin: 2rem 0;
+}
+
+.steps-shortcode .step {
+  position: relative;
+  padding: 1.5rem 1.5rem 1.5rem 4rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 0.75rem;
+  background: #ffffff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.steps-shortcode .step::before {
+  counter-increment: step-counter;
+  content: counter(step-counter);
+  position: absolute;
+  left: 1rem;
+  top: 1.5rem;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: var(--primary-color, #007bff);
+  color: #ffffff;
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+}
+
+.steps-shortcode .step-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+}
+
+.steps-shortcode .step-body {
+  margin: 0;
+  color: #333333;
+}
+
+.steps-shortcode .step-body p {
+  margin: 0 0 1rem;
+}

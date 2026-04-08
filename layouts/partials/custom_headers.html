@@ -7,4 +7,7 @@
 {{ if .Params.asciinema }}
   {{ partial "asciinema.html" . }}
 {{ end }}
+{{ if .Params.steps }}
+  {{ partial "steps.html" . }}
+{{ end }}
 

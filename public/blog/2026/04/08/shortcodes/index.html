@@ -22,7 +22,7 @@
 
 <meta name="description" content="Site template made by Devcows using Hugo">
 
-<meta name="generator" content="Hugo 0.160.0">
+<meta name="generator" content="Hugo 0.159.2">
 
 
 <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
@@ -40,7 +40,7 @@
 
 
 
-<link href="/css/custom.css?1775652349" rel="stylesheet">
+<link href="/css/custom.css?1775669712" rel="stylesheet">
 
 
 
@@ -121,6 +121,12 @@
   <link rel="stylesheet"
 href="https://unpkg.com/asciinema-player@3.6.3/dist/bundle/asciinema-player.css">
 <script src="https://unpkg.com/asciinema-player@3.6.3/dist/bundle/asciinema-player.min.js"></script>
+
+
+  
+<link rel="stylesheet" href="/css/steps.css">
+<script defer src="/js/steps.js"></script>
+
 
 
 
@@ -405,7 +411,9 @@ href="https://unpkg.com/asciinema-player@3.6.3/dist/bundle/asciinema-player.css"
                         
 
                         <div id="post-content">
-                          <h3 id="asciinema">Asciinema</h3>
+                          <p>Los shortcodes son pequeñas etiquetas o fragmentos especiales que te permiten insertar contenido dinámico o componentes más complejos dentro de un archivo Markdown de forma sencilla. Son etiquetas personalizadas que el generador estático interpreta y reemplaza por HTML (u otro contenido) en el proceso de build.</p>
+<p>Los shortcodes son uno de los aspectos más avanzados y complejos de HUGO, si no tiene conocimientos deberá auxiliarlo su IA favorita.</p>
+<h3 id="asciinema">Asciinema</h3>
 
 
 
@@ -415,11 +423,11 @@ href="https://unpkg.com/asciinema-player@3.6.3/dist/bundle/asciinema-player.css"
   
 
 
-<div id="asciinema-554631.cast"></div>
+<div id="asciinema-../../../../../casts/554631.cast"></div>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     if (typeof AsciinemaPlayer !== "undefined" && AsciinemaPlayer.create) {
-      AsciinemaPlayer.create("\/casts\/554631.cast", document.getElementById("asciinema-554631.cast"), {
+      AsciinemaPlayer.create("\/casts\/..\/..\/..\/..\/..\/casts\/554631.cast", document.getElementById("asciinema-..\/..\/..\/..\/..\/casts\/554631.cast"), {
         preload: "auto",
         loop: false,
         autoplay: false,
@@ -448,7 +456,51 @@ href="https://unpkg.com/asciinema-player@3.6.3/dist/bundle/asciinema-player.css"
     end note
     State1 --&gt; State2
     note left of State2 : This is the note to the left.
-</code></pre>
+</code></pre><h3 id="paso-a-paso">Paso a Paso</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>{{ % steps %}}
+</span></span><span style="display:flex;"><span>1. ## Suspendisse sed congue orci.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    Suspendisse sed congue orci, eu congue metus. Nullam feugiat urna massa, et fringilla metus consectetur molestie. Curabitur pellentesque sodales ipsum, sed efficitur libero euismod ac.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>2. ## Maecenas scelerisque sem.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    Maecenas scelerisque sem a tellus dignissim, in sodales neque varius. Integer quis ex quis sem posuere consequat. Morbi interdum ex et mollis maximus. Proin sed quam nisl.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>3. ## Etiam risus purus.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    Etiam risus purus, suscipit a orci quis, mollis mollis ante. Vestibulum congue nisl malesuada tortor egestas, a lobortis tellus dictum. Nam nec ultrices justo.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>4. ## Curabitur sed lacinia velit.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    Curabitur sed lacinia velit. Nullam sed ante non quam lobortis hendrerit. Phasellus elementum, erat sit amet imperdiet pulvinar, odio massa lobortis ipsum, in tincidunt metus dolor vel ligula.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>{{ % /steps %}}
+</span></span></code></pre></div><div class="steps-shortcode">
+  <ol>
+<li>
+<h2 id="suspendisse-sed-congue-orci">Suspendisse sed congue orci.</h2>
+<p>Suspendisse sed congue orci, eu congue metus. Nullam feugiat urna massa, et fringilla metus consectetur molestie. Curabitur pellentesque sodales ipsum, sed efficitur libero euismod ac.</p>
+</li>
+<li>
+<h2 id="maecenas-scelerisque-sem">Maecenas scelerisque sem.</h2>
+<p>Maecenas scelerisque sem a tellus dignissim, in sodales neque varius. Integer quis ex quis sem posuere consequat. Morbi interdum ex et mollis maximus. Proin sed quam nisl.</p>
+</li>
+<li>
+<h2 id="etiam-risus-purus">Etiam risus purus.</h2>
+<p>Etiam risus purus, suscipit a orci quis, mollis mollis ante. Vestibulum congue nisl malesuada tortor egestas, a lobortis tellus dictum. Nam nec ultrices justo.</p>
+</li>
+<li>
+<h2 id="curabitur-sed-lacinia-velit">Curabitur sed lacinia velit.</h2>
+<p>Curabitur sed lacinia velit. Nullam sed ante non quam lobortis hendrerit. Phasellus elementum, erat sit amet imperdiet pulvinar, odio massa lobortis ipsum, in tincidunt metus dolor vel ligula.</p>
+</li>
+</ol>
+</div>
+<h3 id="referencias">Referencias</h3>
+<ul>
+<li>Los contenidos de este post están fuertemente inspirados en los shortcodes que se muestran en el tema Hugo Book.</li>
+</ul>
+
                         </div>
                         
                         
